@@ -15,7 +15,7 @@
     "underscore"     : "1.7.x",
     "commander"	     : "2.5.x",
     "read-installed" : "3.1.x",
-    "walkdir"        : "0.0.7",
+    "walkdir"        : "0.4.1",
     "request"        : "~2.x.x"
   },
   "devDependencies": {
